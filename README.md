@@ -51,8 +51,6 @@ I’ve grown from a hands-on engineer to an architect and tech leader, helping t
 ### 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/asiwajudev)
-- 🧠 [Twitter/X](https://twitter.com/asiwajudev) *(if applicable)*
-- 🌐 [Portfolio](https://asiwajudev.dev) *(optional placeholder)*
 
 ---
 

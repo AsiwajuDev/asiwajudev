@@ -19,15 +19,13 @@ I'm an **Enterprise & Cloud Architect** and **Platform Engineer** with deep expe
 `.NET 8 (C#)` · `NestJS` · `Node.js` · `ReactJS` · `AngularJS` · `TypeScript` · `JavaScript`
 
 **Architecture & Infrastructure**  
-`Microservices` · `Domain-Driven Design (DDD)` · `CQRS` · `Event Sourcing` · `API Gateway`  
-`Azure` · `AWS` · `Docker` · `Kubernetes` · `CI/CD Pipelines` · `Terraform`
+`Microservices` · `Domain-Driven Design (DDD)` · `CQRS` · `Event Sourcing` · `API Gateway` · `Azure` · `AWS` · `Docker` · `Kubernetes` · `CI/CD Pipelines` · `Terraform`
 
 **Data & Messaging**  
 `PostgreSQL` · `SQL Server` · `Redis` · `Kafka` · `RabbitMQ`
 
 **Security & Standards**  
-`OAuth2` · `OpenID Connect` · `Secure SDLC` · `Zero Trust Architecture`  
-`Code Quality Automation` · `Developer Standards` · `Mentorship & Coaching`
+`OAuth2` · `OpenID Connect` · `Secure SDLC` · `Zero Trust Architecture` · `Code Quality Automation` · `Developer Standards` · `Mentorship & Coaching`
 
 ---
 

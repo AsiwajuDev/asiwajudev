@@ -32,7 +32,6 @@ I'm an **Enterprise & Cloud Architect** and **Platform Engineer** with deep expe
 ### 👥 Leadership & Mentorship
 
 I’ve grown from a hands-on engineer to an architect and tech leader, helping teams:
-
 - Adopt modern architectures and cloud-native development
 - Align engineering output with business goals
 - Elevate developer experience (DX) through tooling and standards

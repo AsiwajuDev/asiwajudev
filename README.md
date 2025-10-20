@@ -1,6 +1,6 @@
 ## 👋🏾 Hi, I'm Kazeem Asiwaju-Bello (@asiwajudev)
 
-I'm an **Enterprise & Cloud Architect** and **Platform Engineer** with deep experience designing scalable, secure, and API-first platforms in fintech, SaaS, and logistics. I focus on building systems that are not only robust and cloud-native but also empower engineering teams to deliver with speed and confidence.
+I'm an **Enterprise, Cloud Architect** and **Platform Engineer** with deep experience designing scalable, secure, and API-first platforms in fintech, SaaS, and logistics. I focus on building systems that are not only robust and cloud-native but also empower engineering teams to deliver with speed and confidence.
 
 ---
 
